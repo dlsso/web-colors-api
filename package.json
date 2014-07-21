@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dlsso/web-colors-api/issues"
   },
-  "homepage": "https://github.com/dlsso/web-colors-api"
+  "homepage": "https://github.com/dlsso/web-colors-api",
+  "dependencies": {
+    "request": "^2.37.0"
+  }
 }
